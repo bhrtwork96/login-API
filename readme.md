@@ -36,7 +36,8 @@ this main data acess API. This api data canbe access by authorized user, this ve
 ## 1. Clone this repository 
 <code>git clone https://github.com/bhrtwork96/login-API.git</code>
 
-## 2. Sure about NodeJs intalled in your system
+## 2. Sure about NodeJs intalled in your system and goto project folder.
+<code> cd login-API</code>
 
 ## 3. Run npm install command
 <code>npm install</code>
