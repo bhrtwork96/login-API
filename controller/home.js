@@ -1,6 +1,7 @@
 // home function show main data
 const home =(req,res) =>{
-    res.send("Home page")
+
+    res.send("Your are authorized for access this API")
 }
 
 
