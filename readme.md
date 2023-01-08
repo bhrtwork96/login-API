@@ -1,16 +1,6 @@
-# Nodejs backend API for authentication 
-## In this project three rest API 
-
-## 1. User register API- 
-this api used for register user.
+API
 
 User Register API - http://localhost:8025/api/v1/register
-
-![image](https://user-images.githubusercontent.com/88784869/211201012-1b7c7f5b-fb69-42a6-ae72-b1c22ecb282a.png)
-
-
-## 2. User Login API -
-where any register user can login. This api provide json result which user and token.
 
 User login API - http://localhost:8025/api/v1/login
 
